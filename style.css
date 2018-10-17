@@ -1,0 +1,49 @@
+@font-face {
+	font-family: "aileron";
+	src: url("fonts/Aileron-Italic.woff2") format("woff2");
+}
+
+h1 {
+	font-family: "aileron";
+	font-size: 45px;
+	color: white;
+}
+
+h2 {
+	font-family: "aileron";
+	font-size: 20px;
+	justify-content: center;
+	color: white;
+}
+
+p {
+	font-family: "aileron";
+	font-size: 14px;
+	color: lightpink;
+}
+
+.red {
+	width: 800px;
+	height: 200px;
+	margin: auto;
+}
+
+.yellow {
+	width: 800px;
+	height: 750px;
+	margin: auto;
+}
+
+.red {
+	background-color: darkorange;
+	margin: auto;
+	align-content: center;
+}
+
+.yellow {
+	background-color: darkblue;
+}
+
+.space-around {
+	justify-content: space-around;
+}
