@@ -6,7 +6,7 @@
 h1 {
 	font-family: "aileron";
 	font-size: 45px;
-	color: white;
+	color: black;
 	margin: auto;
 	text-align: center;
 }
@@ -15,7 +15,7 @@ h2 {
 	font-family: "aileron";
 	font-size: 20px;
 	justify-content: center;
-	color: white;
+	color: black;
 	margin: auto;
 	text-align: center;
 }
@@ -23,7 +23,7 @@ h2 {
 p {
 	font-family: "aileron";
 	font-size: 14px;
-	color: lightpink;
+	color: black;
 	margin: auto;
 	text-align: center;
 }
@@ -51,17 +51,17 @@ a {
 }
 
 .red {
-	background-color: darkorange;
+	background-color: white;
 	margin: auto;
 	align-content: center;
 }
 
 .yellow {
-	background-color: darkblue;
+	background-color: white;
 }
 
 .green {
-	background-color: darkorange;
+	background-color: white;
 }
 
 .space-around {
